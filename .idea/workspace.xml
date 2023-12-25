@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b950f62-3963-4c0a-8b31-1018853600ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter_api_5_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inar-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/main/AgeRestrictionAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/main/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/main/LoginValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/main/OrderStatusManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/main/ShippingCostCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/main/SubscriptionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/test/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/test/TestAgeRestrictionValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/test/TestBankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/test/TestLoginValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/test/TestOrderStatusManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/test/TestShippingCostCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/test/TestSubscription2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_16_assignments/test/TestSubscriptionManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2a35rqmoLlGdiCu7PR4Po4wY4od" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.BankAccountTest.executor": "Run",
+    "JUnit.TestAgeRestrictionValidator.executor": "Run",
+    "JUnit.TestBankAccount.executor": "Run",
+    "JUnit.TestLoginValidator.executor": "Run",
+    "JUnit.TestShippingCostCalculator.executor": "Run",
+    "JUnit.TestSubscription2.testConfigureSubscription.executor": "Run",
+    "JUnit.TestSubscriptionManager.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LENOVO T480/Downloads/opentest4j-1.3.0.jar",
+    "onboarding.tips.debug.path": "C:/Users/LENOVO T480/Desktop/workspace/inar-test/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="week_16_assignments.main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestSubscription2.testConfigureSubscription">
+    <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_16_assignments.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week_16_assignments.test" />
+      <option name="MAIN_CLASS_NAME" value="week_16_assignments.test.BankAccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginValidator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_16_assignments.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week_16_assignments.test" />
+      <option name="MAIN_CLASS_NAME" value="week_16_assignments.test.TestLoginValidator" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestShippingCostCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_16_assignments.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week_16_assignments.test" />
+      <option name="MAIN_CLASS_NAME" value="week_16_assignments.test.TestShippingCostCalculator" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSubscription2.testConfigureSubscription" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_16_assignments.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week_16_assignments.test" />
+      <option name="MAIN_CLASS_NAME" value="week_16_assignments.test.TestSubscription2" />
+      <option name="METHOD_NAME" value="testConfigureSubscription" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSubscriptionManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_16_assignments.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week_16_assignments.test" />
+      <option name="MAIN_CLASS_NAME" value="week_16_assignments.test.TestSubscriptionManager" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSubscription2.testConfigureSubscription" />
+        <item itemvalue="JUnit.TestSubscriptionManager" />
+        <item itemvalue="JUnit.TestShippingCostCalculator" />
+        <item itemvalue="JUnit.TestLoginValidator" />
+        <item itemvalue="JUnit.BankAccountTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b950f62-3963-4c0a-8b31-1018853600ae" name="Changes" comment="" />
+      <created>1703534625344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703534625344</updated>
+    </task>
+    <servers />
+  </component>
+</project>
